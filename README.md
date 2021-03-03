@@ -7,6 +7,6 @@ Due to the amount of work coming from university it became difficult to maintain
 <div align="center">
     <img src="https://imgur.com/k2WO0Ly.gif"  </img> 
 </div>
-This application however can run in a web browser and everything was written in HTML, CSS and Javascript. 
+This application however can run in a web browser and everything was written in HTML and Javascript. 
 
 
