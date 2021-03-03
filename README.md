@@ -1,4 +1,6 @@
 # StarShip Demo
 An unfinished demo of a battle royale space shooter. The inspiration behind this game was the old atari 2600 asteroids game and putting that into a battle royale scenerio where ships would fly through a battlefield and avoid meteors while shooting other enemy ships. 
-!(https://imgur.com/OXId9yr)
+<div align="center">
+    <img src="https://imgur.com/OXId9yr" width="400px"</img> 
+</div>
 
