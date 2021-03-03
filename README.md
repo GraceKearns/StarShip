@@ -3,8 +3,10 @@ An unfinished demo of a battle royale space shooter. The inspiration behind this
 <div align="center">
     <img src="https://i.imgur.com/OXId9yr.png"  </img> 
 </div>
+Due to the amount of work coming from university it became difficult to maintain the upkeep of passion towards this project and hence it was dropped. 
 <div align="center">
     <img src="https://imgur.com/k2WO0Ly.gif"  </img> 
 </div>
+This application however can run in a web browser and everything was written in HTML, CSS and Javascript. 
 
 
