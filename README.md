@@ -4,7 +4,7 @@ An unfinished demo of a battle royale space shooter. The inspiration behind this
     <img src="https://i.imgur.com/OXId9yr.png"  </img> 
 </div>
 <div align="center">
-    <img src="https://i.imgur.com/k2WO0Ly.mp4"  </img> 
+    <img src="https://imgur.com/k2WO0Ly.gif"  </img> 
 </div>
 
 
